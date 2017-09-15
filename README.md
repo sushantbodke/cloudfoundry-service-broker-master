@@ -2,4 +2,4 @@ Sample Spring Boot project using the [Spring Cloud - Cloud Foundry Service Broke
 
 # Overview
 
-This project creates a PCF service broker for sending email via Gmail SMPT
+This project creates a PCF service broker for sending email via Gmail SMTP
