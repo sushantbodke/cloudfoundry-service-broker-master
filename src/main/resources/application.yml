@@ -1,0 +1,21 @@
+#spring.mail.host=smtp.gmail.com
+#spring.mail.port=587
+#spring.mail.username=cahtestmail
+#spring.mail.password=pass@123$
+#spring.mail.properties.mail.smtp.auth=true
+#spring.mail.properties.mail.smtp.starttls.enable=true
+
+#not getting used from here, hardcoded this in bindingService for testing
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: cahtestmail
+    password: pass@123$
+    smtp:
+      auth: true
+      starttls:
+        enable: true
+security:
+  basic:
+    enabled: false

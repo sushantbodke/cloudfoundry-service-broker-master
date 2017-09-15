@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-cloudfoundry-service-broker:1.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-cloudfoundry-service-broker/1.0.0.RELEASE/a7798501a82434b679617caf28688ac668b1583d/spring-cloud-cloudfoundry-service-broker-1.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-cloudfoundry-service-broker/1.0.0.RELEASE/2ade4cc98e64d32674b329669e52deaaf549b8d3/spring-cloud-cloudfoundry-service-broker-1.0.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
