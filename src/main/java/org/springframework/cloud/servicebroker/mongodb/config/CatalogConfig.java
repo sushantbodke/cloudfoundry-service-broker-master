@@ -43,8 +43,8 @@ public class CatalogConfig {
 		sdMetadata.put("imageUrl", "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-128.png");
 		sdMetadata.put("longDescription", "Email Service");
 		sdMetadata.put("providerDisplayName", "Sushant Bodke");
-		sdMetadata.put("documentationUrl", "https://github.com/spring-cloud-samples/cloudfoundry-mongodb-service-broker");
-		sdMetadata.put("supportUrl", "https://github.com/spring-cloud-samples/cloudfoundry-mongodb-service-broker");
+		// sdMetadata.put("documentationUrl", "https://github.com/spring-cloud-samples/cloudfoundry-mongodb-service-broker");
+		// sdMetadata.put("supportUrl", "https://github.com/spring-cloud-samples/cloudfoundry-mongodb-service-broker");
 		return sdMetadata;
 	}
 	
